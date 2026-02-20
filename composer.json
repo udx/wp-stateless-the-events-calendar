@@ -1,5 +1,5 @@
 {
-  "name": "udx/wp-stateless-the-events-calendar-addon",
+  "name": "udx/wp-stateless-the-events-calendar",
   "description": "Ensures compatibility with The Events Calendar",
   "type": "wordpress-plugin",
   "license": "MIT",

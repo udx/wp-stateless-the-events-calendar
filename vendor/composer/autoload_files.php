@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'ddca0b7a1526fa5fb3ff4c0dbb1ad859' => $baseDir . '/class-the-events-calendar.php',
+    '14836f9510f5dd93363a1d23edec4619' => $baseDir . '/class-the-events-calendar.php',
 );
