@@ -7,7 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit3eeb0f5269c2de8d77ff0b0d0048f3ca
 {
     public static $files = array (
-        'ddca0b7a1526fa5fb3ff4c0dbb1ad859' => __DIR__ . '/../..' . '/class-the-events-calendar.php',
+        '14836f9510f5dd93363a1d23edec4619' => __DIR__ . '/../..' . '/class-the-events-calendar.php',
     );
 
     public static $classMap = array (
