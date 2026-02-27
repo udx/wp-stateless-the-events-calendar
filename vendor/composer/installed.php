@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'udx/wp-stateless-the-events-calendar-addon',
+        'name' => 'udx/wp-stateless-the-events-calendar',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '31d0b758fd0615a24da2127022e1dd06c7e75fed',
+        'reference' => 'e63f241ffecf0a65f90d2cba614fea49c6996e82',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => false,
     ),
     'versions' => array(
-        'udx/wp-stateless-the-events-calendar-addon' => array(
+        'udx/wp-stateless-the-events-calendar' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '31d0b758fd0615a24da2127022e1dd06c7e75fed',
+            'reference' => 'e63f241ffecf0a65f90d2cba614fea49c6996e82',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

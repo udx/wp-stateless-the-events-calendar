@@ -1,6 +1,6 @@
 <?php
 
-namespace WPSL\TheEventsCalendar;
+namespace SLCA\TheEventsCalendar;
 
 use PHPUnit\Framework\TestCase;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;

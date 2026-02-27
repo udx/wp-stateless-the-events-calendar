@@ -1,11 +1,11 @@
-=== WP-Stateless - The Events Calendar Addon ===
-Contributors: usability_dynamics, andypotanin, ideric, maxim.peshkov, planvova, obolgun
+=== WP-Stateless for The Events Calendar ===
+Contributors: usability_dynamics, andypotanin, ideric, planvova, obolgun
 Donate link: https://udx.io
-Tags: calendar, events, organizer, schedule, google, google cloud, google cloud storage, cdn, uploads, media, stateless, backup
+Tags: events calendar, events calendar addon extension, google cloud storage, stateless, wp-stateless
 License: GPLv2 or later
 Requires PHP: 8.0
 Requires at least: 5.0
-Tested up to: 6.4.1
+Tested up to: 6.9
 Stable tag: 0.0.1
 
 Provides compatibility between the The Events Calendar and the WP-Stateless plugins.
@@ -20,17 +20,17 @@ Provides compatibility between the [The Events Calendar](https://wordpress.org/p
 
 = Notes =
 
-* Tested with The Events Calendar plugin version 6.2.8.1
+* Tested with The Events Calendar plugin version 6.15.16
 
 = Support, Feedback, & Contribute =
 
-We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar-addon).
+We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar).
 
 == Frequently Asked Questions ==
 
 = Where can I submit feature requests or bug reports? =
 
-We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar-addon/issues).
+We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar/issues).
 
 = Can I test new features before they are released? =
 

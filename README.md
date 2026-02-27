@@ -1,4 +1,4 @@
-# WP-Stateless - The Events Calendar Addon
+# WP-Stateless for The Events Calendar
 
 Provides compatibility between the [The Events Calendar](https://wordpress.org/plugins/the-events-calendar/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
 
@@ -8,18 +8,18 @@ Provides compatibility between the [The Events Calendar](https://wordpress.org/p
 
 ### Notes
 
-* Tested with The Events Calendar plugin version 6.2.8.1
+* Tested with The Events Calendar plugin version 6.15.16
 
 ### Support, Feedback, & Contribute
 
-We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar-addon).
+We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar).
 
 ### Frequently Asked Questions
 
 <details>
 <summary>Where can I submit feature requests or bug reports?</summary>
 
-We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar-addon/issues).
+We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-the-events-calendar/issues).
 </details>
 
 <details>
